@@ -1,0 +1,55 @@
+body {
+  background-color: #2A90B5;
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
+}
+h1 {
+  text-shadow: 2px 2px white;
+}
+.main-calc {
+  background-color: #E6E6FA;
+  border: 2px solid black;
+  padding: 15px;
+  margin-top: 30px;
+}
+.calcu-button {
+  margin: 10px;
+  width: 10% !important;
+  height: 35px;
+  box-shadow: 10px 10px 5px #888888
+}
+#screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+  border: 2px solid black;
+  width: 46%;
+  height: 10%;
+  margin-left: 260px;
+  box-shadow: 10px 10px 5px #888888
+}
+#equal-button {
+  margin: 10px;
+  width: 10% !important;
+  height: 35px;
+  box-shadow: 10px 10px 5px #888888
+}
+#plusminus-button {
+  margin: 10px;
+  width: 10% !important;
+  height: 35px;
+  box-shadow: 10px 10px 5px #888888
+}
+#percentage-button {
+  margin: 10px;
+  width: 10% !important;
+  height: 35px;
+  box-shadow: 10px 10px 5px #888888
+}
+#clear-button {
+  margin: 10px;
+  width: 10% !important;
+  height: 35px;
+  box-shadow: 10px 10px 5px #888888
+}
